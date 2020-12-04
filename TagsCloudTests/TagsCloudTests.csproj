@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net48</TargetFramework>
+
+        <IsPackable>false</IsPackable>
+
+        <LangVersion>8</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Autofac" Version="6.0.0" />
+        <PackageReference Include="FluentAssertions" Version="6.0.0-alpha0001" />
+        <PackageReference Include="NUnit" Version="3.12.0" />
+        <PackageReference Include="NUnit3TestAdapter" Version="4.0.0-beta.1" />
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.0-preview-20201123-03" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\TagsCloud\TagsCloud.csproj" />
+    </ItemGroup>
+
+</Project>
