@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractalPainter", "FractalPainter\FractalPainter.csproj", "{4D70883B-6F8B-4166-802F-8EDC9BE93199}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagCloud_Tests", "TagCloud_Tests\TagCloud_Tests.csproj", "{DE8B5220-DDB7-41EA-AF9D-42D6050C35EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagCloud", "TagCloud\TagCloud.csproj", "{A09A6AB9-9BF5-4C67-B595-ED6256CA17E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fractalPainter", "FractalPainter\fractalPainter.csproj", "{DC4063AC-B62F-4256-A573-5BA10A8FCBC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +12,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8B5220-DDB7-41EA-AF9D-42D6050C35EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8B5220-DDB7-41EA-AF9D-42D6050C35EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8B5220-DDB7-41EA-AF9D-42D6050C35EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8B5220-DDB7-41EA-AF9D-42D6050C35EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A09A6AB9-9BF5-4C67-B595-ED6256CA17E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09A6AB9-9BF5-4C67-B595-ED6256CA17E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09A6AB9-9BF5-4C67-B595-ED6256CA17E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09A6AB9-9BF5-4C67-B595-ED6256CA17E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4063AC-B62F-4256-A573-5BA10A8FCBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4063AC-B62F-4256-A573-5BA10A8FCBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4063AC-B62F-4256-A573-5BA10A8FCBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4063AC-B62F-4256-A573-5BA10A8FCBC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
