@@ -1,6 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractalPainter", "FractalPainter\FractalPainter.csproj", "{4D70883B-6F8B-4166-802F-8EDC9BE93199}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FractalPainter", "FractalPainter\FractalPainter.csproj", "{4D70883B-6F8B-4166-802F-8EDC9BE93199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagsCloudContainer", "TagsCloudContainer\TagsCloudContainer.csproj", "{FDFE39A8-442E-4BD9-8F6E-D05D0BCE0DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagsCloudTests", "TagsCloudTests\TagsCloudTests.csproj", "{117EFF27-D1E4-438D-B376-F906FE126D4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +19,19 @@ Global
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDFE39A8-442E-4BD9-8F6E-D05D0BCE0DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFE39A8-442E-4BD9-8F6E-D05D0BCE0DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFE39A8-442E-4BD9-8F6E-D05D0BCE0DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFE39A8-442E-4BD9-8F6E-D05D0BCE0DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{117EFF27-D1E4-438D-B376-F906FE126D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117EFF27-D1E4-438D-B376-F906FE126D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117EFF27-D1E4-438D-B376-F906FE126D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117EFF27-D1E4-438D-B376-F906FE126D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F097DE5-11C6-463E-B793-3F4B7812B4C1}
 	EndGlobalSection
 EndGlobal
