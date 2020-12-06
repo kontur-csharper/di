@@ -2,6 +2,14 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractalPainter", "FractalPainter\FractalPainter.csproj", "{4D70883B-6F8B-4166-802F-8EDC9BE93199}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectanglesCloudLayouter", "RectanglesCloudLayouter\RectanglesCloudLayouter.csproj", "{282C70CC-1DD1-4B95-92AF-7D42E9418388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectanglesCloudLayouterTests", "RectanglesCloudLayouterTests\RectanglesCloudLayouterTests.csproj", "{A8F663CF-3D85-415A-BB4C-97579B5D66B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagsCloudContainerTests", "TagsCloudContainerTests\TagsCloudContainerTests.csproj", "{AE9A8D9C-4AE6-4918-8941-82A155CA0B04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagsCloudContainer", "TagsCloudContainer\TagsCloudContainer.csproj", "{5B6623D3-3134-4EB1-8996-4B8A25C11FBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +20,21 @@ Global
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{282C70CC-1DD1-4B95-92AF-7D42E9418388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282C70CC-1DD1-4B95-92AF-7D42E9418388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282C70CC-1DD1-4B95-92AF-7D42E9418388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282C70CC-1DD1-4B95-92AF-7D42E9418388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F663CF-3D85-415A-BB4C-97579B5D66B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F663CF-3D85-415A-BB4C-97579B5D66B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F663CF-3D85-415A-BB4C-97579B5D66B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F663CF-3D85-415A-BB4C-97579B5D66B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE9A8D9C-4AE6-4918-8941-82A155CA0B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9A8D9C-4AE6-4918-8941-82A155CA0B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9A8D9C-4AE6-4918-8941-82A155CA0B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9A8D9C-4AE6-4918-8941-82A155CA0B04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6623D3-3134-4EB1-8996-4B8A25C11FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6623D3-3134-4EB1-8996-4B8A25C11FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6623D3-3134-4EB1-8996-4B8A25C11FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6623D3-3134-4EB1-8996-4B8A25C11FBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
