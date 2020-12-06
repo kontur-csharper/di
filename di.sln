@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractalPainter", "FractalPainter\FractalPainter.csproj", "{4D70883B-6F8B-4166-802F-8EDC9BE93199}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCloudGenerator", "WordCloudGenerator\WordCloudGenerator.csproj", "{885DFB56-EB45-4395-A0B4-4B667D49E436}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{C061EFC1-4D61-4B15-9319-A28EE1B2FFDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{885DFB56-EB45-4395-A0B4-4B667D49E436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885DFB56-EB45-4395-A0B4-4B667D49E436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885DFB56-EB45-4395-A0B4-4B667D49E436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885DFB56-EB45-4395-A0B4-4B667D49E436}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C061EFC1-4D61-4B15-9319-A28EE1B2FFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C061EFC1-4D61-4B15-9319-A28EE1B2FFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C061EFC1-4D61-4B15-9319-A28EE1B2FFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C061EFC1-4D61-4B15-9319-A28EE1B2FFDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
