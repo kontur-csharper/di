@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <UseWindowsForms>true</UseWindowsForms>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="DocX" Version="1.7.1" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Examples\example.txt" />
+      <Resource Include="Examples\example.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Resource>
+    </ItemGroup>
+
+</Project>
