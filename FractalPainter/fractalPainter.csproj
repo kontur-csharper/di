@@ -17,7 +17,10 @@
     </ItemGroup>
 
     <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.0" />
       <PackageReference Include="Ninject" Version="3.3.4" />
+      <PackageReference Include="Ninject.Extensions.Conventions" Version="3.3.0" />
+      <PackageReference Include="Ninject.Extensions.Factory" Version="3.3.3" />
     </ItemGroup>
 
     <ItemGroup>

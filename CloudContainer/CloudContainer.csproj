@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <LangVersion>8</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\TagsCloudVisualization\TagsCloudVisualization.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MatthiWare.CommandLineParser" Version="0.5.0" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="System.Drawing.Common, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51">
+        <HintPath>..\Cloud.ClientUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

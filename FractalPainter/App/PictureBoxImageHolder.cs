@@ -20,12 +20,6 @@ namespace FractalPainting.App
             return Graphics.FromImage(Image);
         }
 
-        private void FailIfNotInitialized()
-        {
-            if (Image == null)
-                throw new InvalidOperationException("Call PictureBoxImageHolder.RecreateImage before other method call!");
-        }
-
         public void UpdateUi()
         {
             Refresh();
@@ -41,6 +35,13 @@ namespace FractalPainting.App
         {
             FailIfNotInitialized();
             Image.Save(fileName);
+        }
+
+        private void FailIfNotInitialized()
+        {
+            if (Image == null)
+                throw new InvalidOperationException(
+                    "Call PictureBoxImageHolder.RecreateImage before other method call!");
         }
     }
 }

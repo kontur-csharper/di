@@ -19,9 +19,8 @@ namespace FractalPainting.App.Fractals
                 Angle2 = 3 * (random.NextDouble() / 2 + 0.5),
                 ShiftX = 1,
                 ShiftY = 0,
-                Scale = (float)(1/Math.Sqrt(2) + (random.NextDouble() - 0.5)/10)
+                Scale = (float) (1 / Math.Sqrt(2) + (random.NextDouble() - 0.5) / 10)
             };
         }
-
     }
 }

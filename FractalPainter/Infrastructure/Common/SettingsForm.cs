@@ -19,7 +19,7 @@ namespace FractalPainting.Infrastructure.Common
             {
                 Text = "OK",
                 DialogResult = DialogResult.OK,
-                Dock = DockStyle.Bottom,
+                Dock = DockStyle.Bottom
             };
             Controls.Add(okButton);
             Controls.Add(new PropertyGrid
@@ -33,7 +33,7 @@ namespace FractalPainting.Infrastructure.Common
         protected override void OnLoad(EventArgs e)
         {
             base.OnLoad(e);
-            Text = "Настройки";
+            Text = "РќР°СЃС‚СЂРѕР№РєРё";
         }
     }
 }

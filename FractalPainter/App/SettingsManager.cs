@@ -28,6 +28,7 @@ namespace FractalPainting.App
                     Save(defaultSettings);
                     return defaultSettings;
                 }
+
                 return serializer.Deserialize<AppSettings>(data);
             }
             catch (Exception e)

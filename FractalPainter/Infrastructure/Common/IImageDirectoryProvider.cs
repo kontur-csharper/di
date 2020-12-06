@@ -1,4 +1,4 @@
-namespace FractalPainting.Infrastructure.Common
+﻿namespace FractalPainting.Infrastructure.Common
 {
     public interface IImageDirectoryProvider
     {
