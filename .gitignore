@@ -12,15 +12,16 @@
 *.userprefs
 
 # Build results
-[Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
 x64/
 x86/
 bld/
-[Bb]in/
 [Oo]bj/
+[Bb]in/
+
+
 
 # Visual Studio 2015 cache/options directory
 .vs/
@@ -232,6 +233,35 @@ _Pvt_Extensions
 
 # Paket dependency manager
 .paket/paket.exe
-
-# FAKE - F# Make
-.fake/
+/FractalPainter/bin/Debug/FractalPainter.deps.json
+/FractalPainter/bin/Debug/FractalPainter.dll
+/FractalPainter/bin/Debug/FractalPainter.exe
+/FractalPainter/bin/Debug/FractalPainter.runtimeconfig.dev.json
+/FractalPainter/bin/Debug/FractalPainter.runtimeconfig.json
+/FractalPainter/bin/Debug/app.settings
+/FractalPainter/bin/Debug/Ninject.dll
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/Autofac.dll
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/TagsCloud.ClientGUI.exe
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/TagsCloud.ClientGUI.deps.json
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/TagsCloud.ClientGUI.runtimeconfig.dev.json
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/TagsCloud.ClientGUI.dll
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/TagsCloud.ClientGUI.runtimeconfig.json
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/TagsCloud.Core/bin/Debug/netstandard2.0/TagsCloud.Core.deps.json
+/TagsCloud.Core/bin/Debug/netstandard2.0/TagsCloud.Core.dll
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/TagsCloud.Core.dll
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/NHunspell.dll
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/DocumentFormat.OpenXml.dll
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/TagsCloud.Common.dll
+/TagsCloud.Common/bin/Debug/netstandard2.0/TagsCloud.Common.deps.json
+/TagsCloud.Common/bin/Debug/netstandard2.0/TagsCloud.Common.dll
+/TagsCloud.Core/bin/Debug/netstandard2.0/TagsCloud.Common.dll
+/TagsCloud.Visualization/bin/Debug/netstandard2.0/TagsCloud.Visualization.dll
+/TagsCloud.Visualization/bin/Debug/netstandard2.0/TagsCloud.Visualization.deps.json
+/TagsCloud.ClientGUI/bin/Debug/netcoreapp3.1/TagsCloud.Visualization.dll
+/TagsCloud.ClientGUI/app.Designer.cs

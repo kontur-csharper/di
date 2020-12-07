@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TagsCloud.CloudLayouters\TagsCloud.CloudLayouters.csproj" />
+    <ProjectReference Include="..\TagsCloud.Core\TagsCloud.Core.csproj" />
+    <ProjectReference Include="..\TagsCloud.Spirals\TagsCloud.Spirals.csproj" />
+    <ProjectReference Include="..\TagsCloud.Visualization\TagsCloud.Visualization.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="app.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>app.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>
