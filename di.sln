@@ -1,6 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractalPainter", "FractalPainter\FractalPainter.csproj", "{4D70883B-6F8B-4166-802F-8EDC9BE93199}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FractalPainter", "FractalPainter\FractalPainter.csproj", "{4D70883B-6F8B-4166-802F-8EDC9BE93199}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TagsCloudTests", "TagsCloudTests\TagsCloudTests.csproj", "{59B8E607-3A51-41B9-AED7-F644192CB73E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TagsCloud", "TagsCloud\TagsCloud.csproj", "{0673752E-0A07-4616-80F1-0CF041D0D0C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +19,19 @@ Global
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B8E607-3A51-41B9-AED7-F644192CB73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B8E607-3A51-41B9-AED7-F644192CB73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B8E607-3A51-41B9-AED7-F644192CB73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B8E607-3A51-41B9-AED7-F644192CB73E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0673752E-0A07-4616-80F1-0CF041D0D0C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0673752E-0A07-4616-80F1-0CF041D0D0C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0673752E-0A07-4616-80F1-0CF041D0D0C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0673752E-0A07-4616-80F1-0CF041D0D0C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57E62942-5FA8-49C7-88C2-A6AB771FC179}
 	EndGlobalSection
 EndGlobal
