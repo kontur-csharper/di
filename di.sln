@@ -1,6 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractalPainter", "FractalPainter\FractalPainter.csproj", "{4D70883B-6F8B-4166-802F-8EDC9BE93199}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FractalPainter", "FractalPainter\FractalPainter.csproj", "{4D70883B-6F8B-4166-802F-8EDC9BE93199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagsCloudContainer", "TagsCloudContainer\TagsCloudContainer.csproj", "{901F74CE-6E8E-4826-A663-BF8C480CB4F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagsCloudContainerTests", "TagsCloudContainerTests\TagsCloudContainerTests.csproj", "{F8767C17-9457-4970-8EEB-F9D735173094}"
+	ProjectSection(ProjectDependencies) = postProject
+		{901F74CE-6E8E-4826-A663-BF8C480CB4F2} = {901F74CE-6E8E-4826-A663-BF8C480CB4F2}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +22,19 @@ Global
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901F74CE-6E8E-4826-A663-BF8C480CB4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901F74CE-6E8E-4826-A663-BF8C480CB4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901F74CE-6E8E-4826-A663-BF8C480CB4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901F74CE-6E8E-4826-A663-BF8C480CB4F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8767C17-9457-4970-8EEB-F9D735173094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8767C17-9457-4970-8EEB-F9D735173094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8767C17-9457-4970-8EEB-F9D735173094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8767C17-9457-4970-8EEB-F9D735173094}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6238EACF-ACB2-4253-955D-D45B64A79392}
 	EndGlobalSection
 EndGlobal
