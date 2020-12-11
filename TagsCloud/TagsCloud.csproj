@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>TagsCloud</RootNamespace>
+		<GenerateProgramFile>false</GenerateProgramFile>
+    </PropertyGroup>
+
+    
+
+    <ItemGroup>
+		<PackageReference Include="Autofac" Version="6.0.0" />
+		<PackageReference Include="FakeItEasy" Version="6.2.1" />
+		<PackageReference Include="FluentAssertions" Version="5.10.3" />
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.0-preview-20201123-03" />
+		<PackageReference Include="MyStemWrapper" Version="1.0.0" />
+		<PackageReference Include="NUnit" Version="3.12.0" />
+		<PackageReference Include="NUnit3TestAdapter" Version="4.0.0-beta.1" />
+		<PackageReference Include="System.Drawing.Common" Version="5.0.0" />
+		<COMReference Include="Microsoft.Office.Interop.Word">
+			<Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+			<VersionMajor>8</VersionMajor>
+			<VersionMinor>7</VersionMinor>
+			<Lcid>0</Lcid>
+			<WrapperTool>primary</WrapperTool>
+			<Isolated>False</Isolated>
+			<EmbedInteropTypes>True</EmbedInteropTypes>
+		</COMReference>
+    </ItemGroup>
+
+    
+
+    <ItemGroup>
+      <Folder Include="Tag_Clouds_From_Tests" />
+      <Folder Include="Test_Data" />
+    </ItemGroup>
+
+</Project>
