@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\TagCloud.ImageSaver\TagCloud.ImageSaver.csproj" />
+      <ProjectReference Include="..\TagCloud.TextFileParser\TagCloud.TextFileParser.csproj" />
+      <ProjectReference Include="..\TagCloud.Visualizer\TagCloud.Visualizer.csproj" />
+      <ProjectReference Include="..\TagCloud\TagCloud.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="System.Drawing.Common, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51">
+        <HintPath>C:\Program Files\dotnet\packs\Microsoft.WindowsDesktop.App.Ref\3.1.0\ref\netcoreapp3.1\System.Drawing.Common.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Autofac" Version="6.0.0" />
+      <PackageReference Include="CommandLineParser" Version="2.8.0" />
+      <PackageReference Include="GemBox.Document" Version="33.0.1049" />
+    </ItemGroup>
+
+</Project>

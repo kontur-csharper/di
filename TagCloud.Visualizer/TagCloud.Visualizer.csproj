@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="System.Drawing.Common, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51">
+        <HintPath>C:\Program Files\dotnet\packs\Microsoft.WindowsDesktop.App.Ref\3.1.0\ref\netcoreapp3.1\System.Drawing.Common.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\TagCloud\TagCloud.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="images" />
+      <Folder Include="source" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="CommandLineParser" Version="2.8.0" />
+      <PackageReference Include="System.Drawing.Common" Version="5.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="source\input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        <CustomToolNamespace>Tag.Cloud.Visualizer.Console</CustomToolNamespace>
+      </None>
+    </ItemGroup>
+
+</Project>
