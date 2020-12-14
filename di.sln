@@ -2,6 +2,14 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractalPainter", "FractalPainter\FractalPainter.csproj", "{4D70883B-6F8B-4166-802F-8EDC9BE93199}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagsCloudVisualization", "TagsCloudVisualization\TagsCloudVisualization.csproj", "{19405B46-4B70-45FB-93ED-2EB30A4E8F25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagsCloudVisualizationTests", "TagsCloudVisualizationTests\TagsCloudVisualizationTests.csproj", "{4F5B925F-953F-4D42-BDFB-9982AF45531D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagCloud", "TagCloud\TagCloud.csproj", "{FD138DB7-95B7-4FC1-ABB5-72CBE2318A6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagCloudTests", "TagCloudTests\TagCloudTests.csproj", "{5E828A88-8769-4E1D-A312-A96529D897F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +20,21 @@ Global
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D70883B-6F8B-4166-802F-8EDC9BE93199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19405B46-4B70-45FB-93ED-2EB30A4E8F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19405B46-4B70-45FB-93ED-2EB30A4E8F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19405B46-4B70-45FB-93ED-2EB30A4E8F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19405B46-4B70-45FB-93ED-2EB30A4E8F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F5B925F-953F-4D42-BDFB-9982AF45531D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5B925F-953F-4D42-BDFB-9982AF45531D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5B925F-953F-4D42-BDFB-9982AF45531D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5B925F-953F-4D42-BDFB-9982AF45531D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD138DB7-95B7-4FC1-ABB5-72CBE2318A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD138DB7-95B7-4FC1-ABB5-72CBE2318A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD138DB7-95B7-4FC1-ABB5-72CBE2318A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD138DB7-95B7-4FC1-ABB5-72CBE2318A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E828A88-8769-4E1D-A312-A96529D897F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E828A88-8769-4E1D-A312-A96529D897F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E828A88-8769-4E1D-A312-A96529D897F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E828A88-8769-4E1D-A312-A96529D897F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
