@@ -1,0 +1,592 @@
+ Tag{"быть" Frequency=20 Frame={X=1620,Y=1500,Width=202,Height=96}}
+
+ Tag{"библиотека" Frequency=15 Frame={X=1500,Y=1677,Width=370,Height=79}}
+
+ Tag{"год" Frequency=10 Frame={X=1406,Y=1438,Width=94,Height=62}}
+
+ Tag{"электронный" Frequency=8 Frame={X=1500,Y=1339,Width=287,Height=55}}
+
+ Tag{"текст" Frequency=6 Frame={X=1390,Y=1673,Width=110,Height=49}}
+
+ Tag{"тысяча" Frequency=6 Frame={X=1119,Y=1699,Width=143,Height=49}}
+
+ Tag{"фонд" Frequency=5 Frame={X=1234,Y=1262,Width=104,Height=45}}
+
+ Tag{"проект" Frequency=4 Frame={X=1287,Y=1458,Width=119,Height=42}}
+
+ Tag{"книжка" Frequency=4 Frame={X=1374,Y=1722,Width=126,Height=42}}
+
+ Tag{"конгресс" Frequency=4 Frame={X=1500,Y=2008,Width=150,Height=42}}
+
+ Tag{"мошков" Frequency=3 Frame={X=1500,Y=1429,Width=124,Height=39}}
+
+ Tag{"интернет" Frequency=3 Frame={X=1500,Y=1599,Width=142,Height=39}}
+
+ Tag{"радио" Frequency=3 Frame={X=1402,Y=1500,Width=98,Height=39}}
+
+ Tag{"происходить" Frequency=3 Frame={X=1500,Y=1638,Width=194,Height=39}}
+
+ Tag{"торговать" Frequency=3 Frame={X=1500,Y=1300,Width=152,Height=39}}
+
+ Tag{"книга" Frequency=3 Frame={X=1694,Y=1628,Width=90,Height=39}}
+
+ Tag{"становиться" Frequency=3 Frame={X=1652,Y=1300,Width=188,Height=39}}
+
+ Tag{"появляться" Frequency=3 Frame={X=1500,Y=1756,Width=175,Height=39}}
+
+ Tag{"журнал" Frequency=3 Frame={X=1382,Y=1828,Width=118,Height=39}}
+
+ Tag{"публикация" Frequency=3 Frame={X=1500,Y=1859,Width=181,Height=39}}
+
+ Tag{"библиотекарь" Frequency=3 Frame={X=1500,Y=1930,Width=213,Height=39}}
+
+ Tag{"оцифровка" Frequency=3 Frame={X=1724,Y=1894,Width=172,Height=39}}
+
+ Tag{"дело" Frequency=3 Frame={X=1332,Y=1073,Width=81,Height=39}}
+
+ Tag{"оцифровывать" Frequency=3 Frame={X=1500,Y=1969,Width=225,Height=39}}
+
+ Tag{"скандал" Frequency=3 Frame={X=1650,Y=2040,Width=129,Height=39}}
+
+ Tag{"новый" Frequency=3 Frame={X=1048,Y=1169,Width=101,Height=39}}
+
+ Tag{"максим" Frequency=2 Frame={X=1500,Y=1564,Width=110,Height=35}}
+
+ Tag{"поставлять" Frequency=2 Frame={X=1500,Y=1394,Width=158,Height=35}}
+
+ Tag{"положение" Frequency=2 Frame={X=1624,Y=1465,Width=156,Height=35}}
+
+ Tag{"крупный" Frequency=2 Frame={X=1379,Y=1603,Width=121,Height=35}}
+
+ Tag{"первый" Frequency=2 Frame={X=1392,Y=1638,Width=108,Height=35}}
+
+ Tag{"мочь" Frequency=2 Frame={X=1295,Y=1371,Width=76,Height=35}}
+
+ Tag{"три" Frequency=2 Frame={X=1446,Y=1243,Width=54,Height=35}}
+
+ Tag{"штука" Frequency=2 Frame={X=1320,Y=1307,Width=89,Height=35}}
+
+ Tag{"товар" Frequency=2 Frame={X=1243,Y=1532,Width=85,Height=35}}
+
+ Tag{"производитель" Frequency=2 Frame={X=1787,Y=1366,Width=209,Height=35}}
+
+ Tag{"бизнес" Frequency=2 Frame={X=1186,Y=1465,Width=101,Height=35}}
+
+ Tag{"издательство" Frequency=2 Frame={X=1500,Y=1169,Width=189,Height=35}}
+
+ Tag{"база" Frequency=2 Frame={X=1343,Y=1211,Width=72,Height=35}}
+
+ Tag{"пример" Frequency=2 Frame={X=1158,Y=1567,Width=109,Height=35}}
+
+ Tag{"ред" Frequency=2 Frame={X=1324,Y=1828,Width=58,Height=35}}
+
+ Tag{"научаться" Frequency=2 Frame={X=1658,Y=1134,Width=143,Height=35}}
+
+ Tag{"диск" Frequency=2 Frame={X=1430,Y=1112,Width=70,Height=35}}
+
+ Tag{"спрашивать" Frequency=2 Frame={X=1681,Y=1859,Width=168,Height=35}}
+
+ Tag{"жить" Frequency=2 Frame={X=1321,Y=1144,Width=73,Height=35}}
+
+ Tag{"оцифровать" Frequency=2 Frame={X=1330,Y=1899,Width=170,Height=35}}
+
+ Tag{"десяток" Frequency=2 Frame={X=1210,Y=1828,Width=114,Height=35}}
+
+ Tag{"страна" Frequency=2 Frame={X=1282,Y=1863,Width=100,Height=35}}
+
+ Tag{"старый" Frequency=2 Frame={X=1130,Y=1272,Width=104,Height=35}}
+
+ Tag{"вещь" Frequency=2 Frame={X=1421,Y=1045,Width=79,Height=35}}
+
+ Tag{"диссертация" Frequency=2 Frame={X=1601,Y=1035,Width=177,Height=35}}
+
+ Tag{"живой" Frequency=2 Frame={X=1051,Y=1366,Width=92,Height=35}}
+
+ Tag{"деньги" Frequency=2 Frame={X=1059,Y=1564,Width=99,Height=35}}
+
+ Tag{"доступ" Frequency=2 Frame={X=1401,Y=1966,Width=99,Height=35}}
+
+ Tag{"федоров" Frequency=2 Frame={X=1373,Y=1006,Width=127,Height=35}}
+
+ Tag{"цифра" Frequency=2 Frame={X=1022,Y=1699,Width=97,Height=35}}
+
+ Tag{"принимать" Frequency=2 Frame={X=1348,Y=2001,Width=152,Height=35}}
+
+ Tag{"снижать" Frequency=2 Frame={X=2012,Y=1337,Width=119,Height=35}}
+
+ Tag{"копирайтный" Frequency=2 Frame={X=2012,Y=1302,Width=183,Height=35}}
+
+ Tag{"разборка" Frequency=2 Frame={X=1500,Y=2050,Width=133,Height=35}}
+
+ Tag{"пойти" Frequency=2 Frame={X=1149,Y=1067,Width=86,Height=35}}
+
+ Tag{"снимать" Frequency=2 Frame={X=956,Y=1331,Width=119,Height=35}}
+
+ Tag{"нотариус" Frequency=2 Frame={X=952,Y=1734,Width=130,Height=35}}
+
+ Tag{"суд" Frequency=2 Frame={X=1250,Y=974,Width=55,Height=35}}
+
+ Tag{"эксперт" Frequency=2 Frame={X=1037,Y=1099,Width=112,Height=35}}
+
+ Tag{"андрей" Frequency=1 Frame={X=1500,Y=1500,Width=95,Height=32}}
+
+ Tag{"анненков" Frequency=1 Frame={X=1500,Y=1532,Width=120,Height=32}}
+
+ Tag{"интервью" Frequency=1 Frame={X=1500,Y=1468,Width=123,Height=32}}
+
+ Tag{"российский" Frequency=1 Frame={X=1624,Y=1433,Width=145,Height=32}}
+
+ Tag{"тричетырь" Frequency=1 Frame={X=1366,Y=1406,Width=134,Height=32}}
+
+ Tag{"предполагать" Frequency=1 Frame={X=1328,Y=1539,Width=172,Height=32}}
+
+ Tag{"индустрия" Frequency=1 Frame={X=1368,Y=1571,Width=132,Height=32}}
+
+ Tag{"очередь" Frequency=1 Frame={X=1642,Y=1596,Width=107,Height=32}}
+
+ Tag{"коммерсант" Frequency=1 Frame={X=1658,Y=1401,Width=153,Height=32}}
+
+ Tag{"цифровой" Frequency=1 Frame={X=1371,Y=1374,Width=129,Height=32}}
+
+ Tag{"потеснить" Frequency=1 Frame={X=1371,Y=1342,Width=129,Height=32}}
+
+ Tag{"энтузиаст" Frequency=1 Frame={X=1276,Y=1500,Width=126,Height=32}}
+
+ Tag{"ходить" Frequency=1 Frame={X=1410,Y=1310,Width=90,Height=32}}
+
+ Tag{"чтото" Frequency=1 Frame={X=1500,Y=1268,Width=74,Height=32}}
+
+ Tag{"изменяться" Frequency=1 Frame={X=1574,Y=1268,Width=148,Height=32}}
+
+ Tag{"давать" Frequency=1 Frame={X=1409,Y=1278,Width=91,Height=32}}
+
+ Tag{"сказать" Frequency=1 Frame={X=1267,Y=1571,Width=101,Height=32}}
+
+ Tag{"видеть" Frequency=1 Frame={X=1275,Y=1426,Width=91,Height=32}}
+
+ Tag{"понятие" Frequency=1 Frame={X=1274,Y=1603,Width=105,Height=32}}
+
+ Tag{"устройство" Frequency=1 Frame={X=1500,Y=1236,Width=141,Height=32}}
+
+ Tag{"маргинальный" Frequency=1 Frame={X=1749,Y=1596,Width=182,Height=32}}
+
+ Tag{"когдатый" Frequency=1 Frame={X=1260,Y=1635,Width=119,Height=32}}
+
+ Tag{"наладонник" Frequency=1 Frame={X=1780,Y=1468,Width=150,Height=32}}
+
+ Tag{"сотовый" Frequency=1 Frame={X=1282,Y=1667,Width=108,Height=32}}
+
+ Tag{"телефон" Frequency=1 Frame={X=1387,Y=1764,Width=113,Height=32}}
+
+ Tag{"мэйнстрим" Frequency=1 Frame={X=1780,Y=1436,Width=139,Height=32}}
+
+ Tag{"момент" Frequency=1 Frame={X=1500,Y=1795,Width=100,Height=32}}
+
+ Tag{"наставать" Frequency=1 Frame={X=1500,Y=1204,Width=128,Height=32}}
+
+ Tag{"оказывать" Frequency=1 Frame={X=1641,Y=1236,Width=134,Height=32}}
+
+ Tag{"влияние" Frequency=1 Frame={X=1338,Y=1246,Width=108,Height=32}}
+
+ Tag{"читатель" Frequency=1 Frame={X=1600,Y=1795,Width=116,Height=32}}
+
+ Tag{"влиять" Frequency=1 Frame={X=1675,Y=1756,Width=90,Height=32}}
+
+ Tag{"рынок" Frequency=1 Frame={X=1784,Y=1628,Width=83,Height=32}}
+
+ Tag{"смысл" Frequency=1 Frame={X=1415,Y=1211,Width=85,Height=32}}
+
+ Tag{"ураган" Frequency=1 Frame={X=1232,Y=1339,Width=88,Height=32}}
+
+ Tag{"серьезный" Frequency=1 Frame={X=1822,Y=1500,Width=137,Height=32}}
+
+ Tag{"орел" Frequency=1 Frame={X=1628,Y=1204,Width=66,Height=32}}
+
+ Tag{"сидюк" Frequency=1 Frame={X=1212,Y=1394,Width=83,Height=32}}
+
+ Tag{"дивидюк" Frequency=1 Frame={X=1262,Y=1699,Width=112,Height=32}}
+
+ Tag{"осмысливать" Frequency=1 Frame={X=1822,Y=1532,Width=166,Height=32}}
+
+ Tag{"выгрызать" Frequency=1 Frame={X=1365,Y=1796,Width=135,Height=32}}
+
+ Tag{"поляна" Frequency=1 Frame={X=1500,Y=1827,Width=94,Height=32}}
+
+ Tag{"тематический" Frequency=1 Frame={X=1811,Y=1404,Width=175,Height=32}}
+
+ Tag{"браться" Frequency=1 Frame={X=1722,Y=1268,Width=103,Height=32}}
+
+ Tag{"жизнь" Frequency=1 Frame={X=1418,Y=1179,Width=82,Height=32}}
+
+ Tag{"клепало" Frequency=1 Frame={X=1267,Y=1731,Width=107,Height=32}}
+
+ Tag{"научный" Frequency=1 Frame={X=1166,Y=1500,Width=110,Height=32}}
+
+ Tag{"технологический" Frequency=1 Frame={X=1594,Y=1827,Width=210,Height=32}}
+
+ Tag{"собираться" Frequency=1 Frame={X=1694,Y=1204,Width=144,Height=32}}
+
+ Tag{"комплект" Frequency=1 Frame={X=1154,Y=1433,Width=121,Height=32}}
+
+ Tag{"строиться" Frequency=1 Frame={X=1716,Y=1788,Width=127,Height=32}}
+
+ Tag{"тематика" Frequency=1 Frame={X=1154,Y=1603,Width=120,Height=32}}
+
+ Tag{"антиквариат" Frequency=1 Frame={X=1500,Y=1137,Width=158,Height=32}}
+
+ Tag{"философия" Frequency=1 Frame={X=1765,Y=1756,Width=149,Height=32}}
+
+ Tag{"исторический" Frequency=1 Frame={X=1840,Y=1334,Width=172,Height=32}}
+
+ Tag{"сборник" Frequency=1 Frame={X=1394,Y=1147,Width=106,Height=32}}
+
+ Tag{"химия" Frequency=1 Frame={X=1336,Y=1179,Width=82,Height=32}}
+
+ Tag{"математика" Frequency=1 Frame={X=1822,Y=1564,Width=152,Height=32}}
+
+ Tag{"какоето" Frequency=1 Frame={X=1689,Y=1172,Width=103,Height=32}}
+
+ Tag{"художественный" Frequency=1 Frame={X=1867,Y=1628,Width=208,Height=32}}
+
+ Tag{"литератор" Frequency=1 Frame={X=1111,Y=1532,Width=132,Height=32}}
+
+ Tag{"термин" Frequency=1 Frame={X=1164,Y=1635,Width=96,Height=32}}
+
+ Tag{"роман" Frequency=1 Frame={X=1198,Y=1667,Width=84,Height=32}}
+
+ Tag{"андреев" Frequency=1 Frame={X=1279,Y=1764,Width=108,Height=32}}
+
+ Tag{"паутина" Frequency=1 Frame={X=1261,Y=1796,Width=104,Height=32}}
+
+ Tag{"собирать" Frequency=1 Frame={X=1382,Y=1867,Width=118,Height=32}}
+
+ Tag{"специальный" Frequency=1 Frame={X=1840,Y=1302,Width=167,Height=32}}
+
+ Tag{"литература" Frequency=1 Frame={X=1500,Y=1105,Width=145,Height=32}}
+
+ Tag{"человек" Frequency=1 Frame={X=1232,Y=1230,Width=106,Height=32}}
+
+ Tag{"распространяться" Frequency=1 Frame={X=1500,Y=1898,Width=224,Height=32}}
+
+ Tag{"сайт" Frequency=1 Frame={X=1825,Y=1268,Width=62,Height=32}}
+
+ Tag{"заказчик" Frequency=1 Frame={X=1204,Y=1307,Width=116,Height=32}}
+
+ Tag{"продавец" Frequency=1 Frame={X=1870,Y=1660,Width=123,Height=32}}
+
+ Tag{"разоряться" Frequency=1 Frame={X=1775,Y=1236,Width=144,Height=32}}
+
+ Tag{"разговор" Frequency=1 Frame={X=1220,Y=1198,Width=116,Height=32}}
+
+ Tag{"форум" Frequency=1 Frame={X=1143,Y=1362,Width=89,Height=32}}
+
+ Tag{"тусоваться" Frequency=1 Frame={X=1870,Y=1692,Width=139,Height=32}}
+
+ Tag{"понимать" Frequency=1 Frame={X=1930,Y=1468,Width=123,Height=32}}
+
+ Tag{"собеседник" Frequency=1 Frame={X=1645,Y=1102,Width=147,Height=32}}
+
+ Tag{"город" Frequency=1 Frame={X=1500,Y=1073,Width=76,Height=32}}
+
+ Tag{"химикотехнологический" Frequency=1 Frame={X=1919,Y=1436,Width=296,Height=32}}
+
+ Tag{"несколько" Frequency=1 Frame={X=1576,Y=1070,Width=132,Height=32}}
+
+ Tag{"том" Frequency=1 Frame={X=1214,Y=1748,Width=53,Height=32}}
+
+ Tag{"триста" Frequency=1 Frame={X=1792,Y=1172,Width=88,Height=32}}
+
+ Tag{"общий" Frequency=1 Frame={X=1413,Y=1080,Width=87,Height=32}}
+
+ Tag{"план" Frequency=1 Frame={X=1364,Y=1112,Width=66,Height=32}}
+
+ Tag{"специализированный" Frequency=1 Frame={X=1804,Y=1820,Width=265,Height=32}}
+
+ Tag{"мало" Frequency=1 Frame={X=1870,Y=1724,Width=70,Height=32}}
+
+ Tag{"сотня" Frequency=1 Frame={X=1288,Y=1112,Width=76,Height=32}}
+
+ Tag{"отдел" Frequency=1 Frame={X=1243,Y=1166,Width=78,Height=32}}
+
+ Tag{"автоматизация" Frequency=1 Frame={X=1887,Y=1270,Width=190,Height=32}}
+
+ Tag{"помпа" Frequency=1 Frame={X=1838,Y=1204,Width=84,Height=32}}
+
+ Tag{"начинаться" Frequency=1 Frame={X=1067,Y=1401,Width=145,Height=32}}
+
+ Tag{"кончаться" Frequency=1 Frame={X=1075,Y=1330,Width=129,Height=32}}
+
+ Tag{"цифрануть" Frequency=1 Frame={X=1047,Y=1468,Width=139,Height=32}}
+
+ Tag{"успевать" Frequency=1 Frame={X=1146,Y=1780,Width=115,Height=32}}
+
+ Tag{"знать" Frequency=1 Frame={X=1425,Y=1934,Width=75,Height=32}}
+
+ Tag{"обстоять" Frequency=1 Frame={X=1843,Y=1788,Width=115,Height=32}}
+
+ Tag{"предлагать" Frequency=1 Frame={X=1931,Y=1596,Width=144,Height=32}}
+
+ Tag{"сотрудничество" Frequency=1 Frame={X=1959,Y=1500,Width=197,Height=32}}
+
+ Tag{"взяться" Frequency=1 Frame={X=1500,Y=1038,Width=101,Height=32}}
+
+ Tag{"заметный" Frequency=1 Frame={X=1801,Y=1140,Width=126,Height=32}}
+
+ Tag{"коммерческий" Frequency=1 Frame={X=1708,Y=1070,Width=182,Height=32}}
+
+ Tag{"приносить" Frequency=1 Frame={X=1100,Y=1240,Width=132,Height=32}}
+
+ Tag{"работать" Frequency=1 Frame={X=1037,Y=1599,Width=117,Height=32}}
+
+ Tag{"тыс" Frequency=1 Frame={X=1112,Y=1635,Width=52,Height=32}}
+
+ Tag{"замечать" Frequency=1 Frame={X=1077,Y=1667,Width=121,Height=32}}
+
+ Tag{"платный" Frequency=1 Frame={X=1315,Y=1934,Width=110,Height=32}}
+
+ Tag{"организоваться" Frequency=1 Frame={X=1713,Y=1933,Width=196,Height=32}}
+
+ Tag{"закрытый" Frequency=1 Frame={X=1974,Y=1564,Width=125,Height=32}}
+
+ Tag{"канал" Frequency=1 Frame={X=1342,Y=1041,Width=79,Height=32}}
+
+ Tag{"подписчик" Frequency=1 Frame={X=1020,Y=1436,Width=134,Height=32}}
+
+ Tag{"служить" Frequency=1 Frame={X=1176,Y=1863,Width=106,Height=32}}
+
+ Tag{"абонемент" Frequency=1 Frame={X=1988,Y=1532,Width=138,Height=32}}
+
+ Tag{"стоять" Frequency=1 Frame={X=1246,Y=1080,Width=86,Height=32}}
+
+ Tag{"сколькото" Frequency=1 Frame={X=1037,Y=1500,Width=129,Height=32}}
+
+ Tag{"доллар" Frequency=1 Frame={X=1115,Y=1812,Width=95,Height=32}}
+
+ Tag{"направление" Frequency=1 Frame={X=1849,Y=1852,Width=164,Height=32}}
+
+ Tag{"развиваться" Frequency=1 Frame={X=1914,Y=1756,Width=157,Height=32}}
+
+ Tag{"бешеный" Frequency=1 Frame={X=1986,Y=1404,Width=119,Height=32}}
+
+ Tag{"скорость" Frequency=1 Frame={X=1919,Y=1238,Width=115,Height=32}}
+
+ Tag{"госконтора" Frequency=1 Frame={X=1801,Y=1108,Width=141,Height=32}}
+
+ Tag{"зарабатывать" Frequency=1 Frame={X=1500,Y=1003,Width=175,Height=32}}
+
+ Tag{"коммерция" Frequency=1 Frame={X=1187,Y=1898,Width=143,Height=32}}
+
+ Tag{"казенный" Frequency=1 Frame={X=1996,Y=1372,Width=124,Height=32}}
+
+ Tag{"счет" Frequency=1 Frame={X=1880,Y=1172,Width=61,Height=32}}
+
+ Tag{"виктор" Frequency=1 Frame={X=1198,Y=1134,Width=90,Height=32}}
+
+ Tag{"директор" Frequency=1 Frame={X=1101,Y=1208,Width=119,Height=32}}
+
+ Tag{"отвечать" Frequency=1 Frame={X=996,Y=1532,Width=115,Height=32}}
+
+ Tag{"проверять" Frequency=1 Frame={X=1082,Y=1748,Width=132,Height=32}}
+
+ Tag{"удосуживаться" Frequency=1 Frame={X=1922,Y=1206,Width=187,Height=32}}
+
+ Tag{"думать" Frequency=1 Frame={X=1149,Y=1166,Width=94,Height=32}}
+
+ Tag{"часть" Frequency=1 Frame={X=1055,Y=1298,Width=75,Height=32}}
+
+ Tag{"крыть" Frequency=1 Frame={X=1033,Y=1631,Width=79,Height=32}}
+
+ Tag{"раз" Frequency=1 Frame={X=1027,Y=1663,Width=50,Height=32}}
+
+ Tag{"какойто" Frequency=1 Frame={X=1212,Y=1930,Width=103,Height=32}}
+
+ Tag{"телепередача" Frequency=1 Frame={X=1725,Y=1965,Width=177,Height=32}}
+
+ Tag{"слышать" Frequency=1 Frame={X=1287,Y=1966,Width=114,Height=32}}
+
+ Tag{"удовольствие" Frequency=1 Frame={X=1940,Y=1724,Width=172,Height=32}}
+
+ Tag{"материал" Frequency=1 Frame={X=1675,Y=1003,Width=124,Height=32}}
+
+ Tag{"документ" Frequency=1 Frame={X=1500,Y=971,Width=122,Height=32}}
+
+ Tag{"день" Frequency=1 Frame={X=1434,Y=974,Width=66,Height=32}}
+
+ Tag{"отстраивать" Frequency=1 Frame={X=1650,Y=2008,Width=154,Height=32}}
+
+ Tag{"система" Frequency=1 Frame={X=1235,Y=1041,Width=107,Height=32}}
+
+ Tag{"импорт" Frequency=1 Frame={X=1150,Y=1102,Width=96,Height=32}}
+
+ Tag{"газета" Frequency=1 Frame={X=973,Y=1564,Width=86,Height=32}}
+
+ Tag{"месяц" Frequency=1 Frame={X=1093,Y=1844,Width=83,Height=32}}
+
+ Tag{"приходить" Frequency=1 Frame={X=1993,Y=1660,Width=132,Height=32}}
+
+ Tag{"рунет" Frequency=1 Frame={X=1297,Y=1009,Width=76,Height=32}}
+
+ Tag{"темп" Frequency=1 Frame={X=1778,Y=1038,Width=67,Height=32}}
+
+ Tag{"пополнение" Frequency=1 Frame={X=1622,Y=971,Width=151,Height=32}}
+
+ Tag{"проходить" Frequency=1 Frame={X=2009,Y=1692,Width=132,Height=32}}
+
+ Tag{"пополнять" Frequency=1 Frame={X=1941,Y=1174,Width=133,Height=32}}
+
+ Tag{"риск" Frequency=1 Frame={X=1371,Y=974,Width=63,Height=32}}
+
+ Tag{"нарываться" Frequency=1 Frame={X=1896,Y=1884,Width=149,Height=32}}
+
+ Tag{"очередной" Frequency=1 Frame={X=1363,Y=2036,Width=137,Height=32}}
+
+ Tag{"убыль" Frequency=1 Frame={X=1116,Y=1134,Width=82,Height=32}}
+
+ Tag{"интенсивность" Frequency=1 Frame={X=1500,Y=939,Width=184,Height=32}}
+
+ Tag{"стабилизироваться" Frequency=1 Frame={X=1958,Y=1788,Width=239,Height=32}}
+
+ Tag{"всплеск" Frequency=1 Frame={X=1941,Y=1142,Width=104,Height=32}}
+
+ Tag{"км" Frequency=1 Frame={X=1460,Y=942,Width=40,Height=32}}
+
+ Tag{"доля" Frequency=1 Frame={X=1394,Y=942,Width=66,Height=32}}
+
+ Tag{"пиар" Frequency=1 Frame={X=1305,Y=977,Width=66,Height=32}}
+
+ Tag{"получать" Frequency=1 Frame={X=983,Y=1266,Width=117,Height=32}}
+
+ Tag{"успокаиваться" Frequency=1 Frame={X=2053,Y=1468,Width=183,Height=32}}
+
+ Tag{"почувствовать" Frequency=1 Frame={X=1890,Y=1076,Width=182,Height=32}}
+
+ Tag{"инициатор" Frequency=1 Frame={X=932,Y=1404,Width=135,Height=32}}
+
+ Tag{"идти" Frequency=1 Frame={X=983,Y=1468,Width=64,Height=32}}
+
+ Tag{"обычный" Frequency=1 Frame={X=1030,Y=1780,Width=116,Height=32}}
+
+ Tag{"фоновый" Frequency=1 Frame={X=1169,Y=1962,Width=118,Height=32}}
+
+ Tag{"процесс" Frequency=1 Frame={X=1242,Y=1998,Width=106,Height=32}}
+
+ Tag{"паратройка" Frequency=1 Frame={X=1845,Y=1038,Width=147,Height=32}}
+
+ Tag{"тихий" Frequency=1 Frame={X=1799,Y=1006,Width=76,Height=32}}
+
+ Tag{"извиняться" Frequency=1 Frame={X=1500,Y=2085,Width=143,Height=32}}
+
+ Tag{"лад" Frequency=1 Frame={X=1804,Y=1997,Width=53,Height=32}}
+
+ Tag{"жена" Frequency=1 Frame={X=1909,Y=1916,Width=70,Height=32}}
+
+ Tag{"услышать" Frequency=1 Frame={X=2075,Y=1596,Width=127,Height=32}}
+
+ Tag{"рассказывать" Frequency=1 Frame={X=1684,Y=939,Width=173,Height=32}}
+
+ Tag{"звонить" Frequency=1 Frame={X=1500,Y=907,Width=103,Height=32}}
+
+ Tag{"странный" Frequency=1 Frame={X=1175,Y=1009,Width=122,Height=32}}
+
+ Tag{"женщина" Frequency=1 Frame={X=981,Y=1234,Width=119,Height=32}}
+
+ Tag{"называть" Frequency=1 Frame={X=930,Y=1372,Width=121,Height=32}}
+
+ Tag{"представлять" Frequency=1 Frame={X=1328,Y=2068,Width=172,Height=32}}
+
+ Tag{"претензия" Frequency=1 Frame={X=2075,Y=1628,Width=132,Height=32}}
+
+ Tag{"заявлять" Frequency=1 Frame={X=1942,Y=1110,Width=117,Height=32}}
+
+ Tag{"печься" Frequency=1 Frame={X=1773,Y=971,Width=91,Height=32}}
+
+ Tag{"интерес" Frequency=1 Frame={X=1290,Y=942,Width=104,Height=32}}
+
+ Tag{"наследник" Frequency=1 Frame={X=1041,Y=1876,Width=135,Height=32}}
+
+ Tag{"переводчик" Frequency=1 Frame={X=1643,Y=2079,Width=149,Height=32}}
+
+ Tag{"рука" Frequency=1 Frame={X=1437,Y=910,Width=63,Height=32}}
+
+ Tag{"удостоверительный" Frequency=1 Frame={X=1603,Y=907,Width=245,Height=32}}
+
+ Tag{"акт" Frequency=1 Frame={X=1389,Y=910,Width=48,Height=32}}
+
+ Tag{"подтверждать" Frequency=1 Frame={X=2099,Y=1564,Width=178,Height=32}}
+
+ Tag{"неизбежный" Frequency=1 Frame={X=1909,Y=1948,Width=158,Height=32}}
+
+ Tag{"уплачивать" Frequency=1 Frame={X=1203,Y=2030,Width=145,Height=32}}
+
+ Tag{"наивный" Frequency=1 Frame={X=1388,Y=2100,Width=112,Height=32}}
+
+ Tag{"говорить" Frequency=1 Frame={X=1779,Y=2040,Width=114,Height=32}}
+
+ Tag{"заключение" Frequency=1 Frame={X=1857,Y=1997,Width=152,Height=32}}
+
+ Tag{"ответ" Frequency=1 Frame={X=974,Y=1202,Width=74,Height=32}}
+
+ Tag{"мысль" Frequency=1 Frame={X=951,Y=1500,Width=86,Height=32}}
+
+ Tag{"бросать" Frequency=1 Frame={X=933,Y=1596,Width=104,Height=32}}
+
+ Tag{"трубка" Frequency=1 Frame={X=944,Y=1628,Width=89,Height=32}}
+
+ Tag{"ждать" Frequency=1 Frame={X=946,Y=1660,Width=81,Height=32}}
+
+ Tag{"устраивать" Frequency=1 Frame={X=1046,Y=1908,Width=141,Height=32}}
+
+ Tag{"настроение" Frequency=1 Frame={X=1500,Y=2117,Width=147,Height=32}}
+
+ Tag{"улучшать" Frequency=1 Frame={X=933,Y=1299,Width=122,Height=32}}
+
+ Tag{"активизировать" Frequency=1 Frame={X=2077,Y=1270,Width=197,Height=32}}
+
+ Tag{"трудовой" Frequency=1 Frame={X=1875,Y=1006,Width=118,Height=32}}
+
+ Tag{"порыв" Frequency=1 Frame={X=1306,Y=910,Width=83,Height=32}}
+
+ Tag{"вкладывать" Frequency=1 Frame={X=2105,Y=1404,Width=150,Height=32}}
+
+ Tag{"присылать" Frequency=1 Frame={X=1500,Y=875,Width=136,Height=32}}
+
+ Tag{"задержка" Frequency=1 Frame={X=991,Y=1812,Width=124,Height=32}}
+
+ Tag{"иметь" Frequency=1 Frame={X=1088,Y=1940,Width=81,Height=32}}
+
+ Tag{"отдача" Frequency=1 Frame={X=1150,Y=1994,Width=92,Height=32}}
+
+ Tag{"посетитель" Frequency=1 Frame={X=1647,Y=2111,Width=144,Height=32}}
+
+ Tag{"проблема" Frequency=1 Frame={X=2013,Y=1852,Width=127,Height=32}}
+
+ Tag{"авторский" Frequency=1 Frame={X=985,Y=1137,Width=131,Height=32}}
+
+ Tag{"право" Frequency=1 Frame={X=904,Y=1468,Width=79,Height=32}}
+
+ Tag{"легализовать" Frequency=1 Frame={X=1979,Y=1916,Width=170,Height=32}}
+
+ Tag{"форма" Frequency=1 Frame={X=2071,Y=1756,Width=91,Height=32}}
+
+ Tag{"строить" Frequency=1 Frame={X=2034,Y=1238,Width=101,Height=32}}
+
+ Tag{"идеальный" Frequency=1 Frame={X=2120,Y=1372,Width=141,Height=32}}
+
+ Tag{"законодательство" Frequency=1 Frame={X=1864,Y=974,Width=226,Height=32}}
+
+ Tag{"хватить" Frequency=1 Frame={X=1636,Y=875,Width=100,Height=32}}
+
+ Tag{"отчисление" Frequency=1 Frame={X=1353,Y=878,Width=147,Height=32}}
+
+ Tag{"автор" Frequency=1 Frame={X=1213,Y=942,Width=77,Height=32}}
+
+ Tag{"факт" Frequency=1 Frame={X=1181,Y=977,Width=69,Height=32}}
+
+ Tag{"требование" Frequency=1 Frame={X=1792,Y=2072,Width=148,Height=32}}
+
+ Tag{"прямой" Frequency=1 Frame={X=1077,Y=1035,Width=98,Height=32}}
+
+ Tag{"договор" Frequency=1 Frame={X=944,Y=1170,Width=104,Height=32}}
+
+ Tag{"тв" Frequency=1 Frame={X=949,Y=1267,Width=34,Height=32}}
+
