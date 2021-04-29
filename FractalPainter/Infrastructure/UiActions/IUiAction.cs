@@ -5,6 +5,7 @@ namespace FractalPainting.Infrastructure.UiActions
         string Category { get; }
         string Name { get; }
         string Description { get; }
+        int Order { get; }
         void Perform();
     }
 }

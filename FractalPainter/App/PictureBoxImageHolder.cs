@@ -8,6 +8,12 @@ namespace FractalPainting.App
 {
     public class PictureBoxImageHolder : PictureBox, IImageHolder
     {
+        public PictureBoxImageHolder(ImageSettings imageSettings)
+        {
+            RecreateImage(imageSettings);
+            Dock = DockStyle.Fill;
+        }
+
         public Size GetImageSize()
         {
             FailIfNotInitialized();
